@@ -1,0 +1,76 @@
+body {
+    background-color: #eee;
+}
+.container {
+    margin: 1px;
+}
+.header {
+    height: 100px;
+    width: auto;
+    background-color: #fff;
+    margin-top: 15px;
+    display: flex;
+}
+
+ul {
+    list-style: none;
+    padding-left: 20px;
+    height: fit-content;
+}
+li {
+    padding: 10px 0;
+}
+img {
+    border-right: 1px solid #eee;
+}
+.content{
+    display: flex;
+}
+.navigation {
+    height: 640px;
+    width: 100px;
+    background-color: #fff;
+    border-top: 1px solid #eee;
+}
+.main {
+    height: 620px;
+    width: 1450px;
+    background-color: #aaa;
+    padding: 10px;
+}
+.main-header {
+    padding: 20px 0 0 20px;
+}
+
+h2 {
+    display: inline;
+    font-size: 30px;
+}
+
+.upload {
+    height: 150px;
+    width: 300px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 20px;
+}
+
+.cloud-upload {
+    font-size: 100px;
+    padding: 20px 80px ;
+}
+
+em {
+    padding-left: 100px;
+}
+
+input {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 30px 20px 20px 100px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
